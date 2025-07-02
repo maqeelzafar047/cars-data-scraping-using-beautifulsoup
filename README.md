@@ -113,5 +113,9 @@ plt.title("Distribution of Car Prices")
 
 ---
 
-Report generated in ***May, 2025***
+## **Disclaimer**
+
+This project is created by M Aqeel Zafar and is intended for educational purposes only. It is not affiliated with or endorsed by bikez.com. Do not use this script for any commercial or abusive activities. Always respect websites' terms of service.
+
+---
 
