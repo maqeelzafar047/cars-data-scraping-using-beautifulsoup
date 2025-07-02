@@ -115,7 +115,6 @@ plt.title("Distribution of Car Prices")
 
 ## **Disclaimer**
 
-This project is created by M Aqeel Zafar and is intended for educational purposes only. It is not affiliated with or endorsed by bikez.com. Do not use this script for any commercial or abusive activities. Always respect websites' terms of service.
+This project is created by M Aqeel Zafar and is intended for educational purposes only. It is not affiliated with or endorsed by cars.com. Do not use this script for any commercial or abusive activities. Always respect websites' terms of service.
 
 ---
-
